@@ -4,7 +4,7 @@ metadata:
   name: questbook-deployment
   labels:
     app: questbook
-  namespace: questbook
+  namespace: unbiased
 spec:
   replicas: 1
   selector:
